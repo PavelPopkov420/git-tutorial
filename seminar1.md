@@ -74,3 +74,9 @@ git remote add origin https://github.com/PavelPopkov420/git-tutorial.git
 git branch -M main
 git push -u origin main
 ```
+## Клонирование репозитория
+
+Для клонирования репозитория введите команду 
+```
+    git clone <url to repository>
+```
