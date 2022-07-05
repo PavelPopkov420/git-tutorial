@@ -56,3 +56,4 @@ git checkout <название ветки>
 git merge <branch name>
 ```
  
+## Работа с удаленным репозиторием 
